@@ -1,3 +1,6 @@
+/**
+ *This is just an edited version of javascript
+ */
 'use strict';
 module.exports = {
   backend: function evercookieMiddlewareBackendFactory(opts) {
